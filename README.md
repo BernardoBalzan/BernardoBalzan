@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Bernardo Balzan</h1>
 - 📫 How to reach me: <a href="mailto:b.balzan@edu.pucrs.br">b.balzan@edu.pucrs.br</a>
 
+<br>
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bernardobalzan&show_icons=true&theme=cobalt&title_color=2fdbfe&locale=en&layout=compact" alt="bernardobalzan" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bernardobalzan&show_icons=true&theme=cobalt&title_color=2fdbfe&locale=en" alt="bernardobalzan" /></p>
