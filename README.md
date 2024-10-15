@@ -2,7 +2,6 @@
 - 📫 How to reach me: <a href="mailto:b.balzan@edu.pucrs.br">b.balzan@edu.pucrs.br</a>
 <br><br>
 
-<!-- Container flex para alinhar as tabelas horizontalmente -->
 <div style="display: flex; justify-content: center; align-items: center;">
   <p>
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bernardobalzan&show_icons=true&theme=cobalt&title_color=2fdbfe&locale=en&layout=compact" alt="bernardobalzan" />
