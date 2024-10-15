@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bernardo Balzan</h1>
-- 📫 How to reach me **b.balzan@edu.pucrs.br**
+- 📫 How to reach me: <a href="mailto:b.balzan@edu.pucrs.br">b.balzan@edu.pucrs.br</a>
 
+<h3 align="left">Connect with me:</h3>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/bernardo_balzan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bernardo_balzan" height="30" width="40" /></a>
